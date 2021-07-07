@@ -1,0 +1,12 @@
+C:\Users\Silvia\Documents\Programacao\C#\URI_Online\ex1003\ex1003\bin\Debug\netcoreapp3.1\ex1003.exe
+C:\Users\Silvia\Documents\Programacao\C#\URI_Online\ex1003\ex1003\bin\Debug\netcoreapp3.1\ex1003.deps.json
+C:\Users\Silvia\Documents\Programacao\C#\URI_Online\ex1003\ex1003\bin\Debug\netcoreapp3.1\ex1003.runtimeconfig.json
+C:\Users\Silvia\Documents\Programacao\C#\URI_Online\ex1003\ex1003\bin\Debug\netcoreapp3.1\ex1003.runtimeconfig.dev.json
+C:\Users\Silvia\Documents\Programacao\C#\URI_Online\ex1003\ex1003\bin\Debug\netcoreapp3.1\ex1003.dll
+C:\Users\Silvia\Documents\Programacao\C#\URI_Online\ex1003\ex1003\bin\Debug\netcoreapp3.1\ex1003.pdb
+C:\Users\Silvia\Documents\Programacao\C#\URI_Online\ex1003\ex1003\obj\Debug\netcoreapp3.1\ex1003.AssemblyInfoInputs.cache
+C:\Users\Silvia\Documents\Programacao\C#\URI_Online\ex1003\ex1003\obj\Debug\netcoreapp3.1\ex1003.AssemblyInfo.cs
+C:\Users\Silvia\Documents\Programacao\C#\URI_Online\ex1003\ex1003\obj\Debug\netcoreapp3.1\ex1003.csproj.CoreCompileInputs.cache
+C:\Users\Silvia\Documents\Programacao\C#\URI_Online\ex1003\ex1003\obj\Debug\netcoreapp3.1\ex1003.dll
+C:\Users\Silvia\Documents\Programacao\C#\URI_Online\ex1003\ex1003\obj\Debug\netcoreapp3.1\ex1003.pdb
+C:\Users\Silvia\Documents\Programacao\C#\URI_Online\ex1003\ex1003\obj\Debug\netcoreapp3.1\ex1003.genruntimeconfig.cache
