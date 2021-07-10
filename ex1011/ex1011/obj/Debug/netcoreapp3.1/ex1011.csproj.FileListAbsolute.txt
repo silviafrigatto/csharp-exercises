@@ -1,0 +1,13 @@
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1011\ex1011\bin\Debug\netcoreapp3.1\ex1011.exe
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1011\ex1011\bin\Debug\netcoreapp3.1\ex1011.deps.json
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1011\ex1011\bin\Debug\netcoreapp3.1\ex1011.runtimeconfig.json
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1011\ex1011\bin\Debug\netcoreapp3.1\ex1011.runtimeconfig.dev.json
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1011\ex1011\bin\Debug\netcoreapp3.1\ex1011.dll
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1011\ex1011\bin\Debug\netcoreapp3.1\ex1011.pdb
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1011\ex1011\obj\Debug\netcoreapp3.1\ex1011.csproj.AssemblyReference.cache
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1011\ex1011\obj\Debug\netcoreapp3.1\ex1011.AssemblyInfoInputs.cache
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1011\ex1011\obj\Debug\netcoreapp3.1\ex1011.AssemblyInfo.cs
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1011\ex1011\obj\Debug\netcoreapp3.1\ex1011.csproj.CoreCompileInputs.cache
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1011\ex1011\obj\Debug\netcoreapp3.1\ex1011.dll
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1011\ex1011\obj\Debug\netcoreapp3.1\ex1011.pdb
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1011\ex1011\obj\Debug\netcoreapp3.1\ex1011.genruntimeconfig.cache
