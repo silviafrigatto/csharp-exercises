@@ -1,0 +1,13 @@
+C:\Users\Silvia\source\repos\ex1017\ex1017\obj\Debug\netcoreapp3.1\ex1017.csproj.AssemblyReference.cache
+C:\Users\Silvia\source\repos\ex1017\ex1017\obj\Debug\netcoreapp3.1\ex1017.AssemblyInfoInputs.cache
+C:\Users\Silvia\source\repos\ex1017\ex1017\obj\Debug\netcoreapp3.1\ex1017.AssemblyInfo.cs
+C:\Users\Silvia\source\repos\ex1017\ex1017\obj\Debug\netcoreapp3.1\ex1017.csproj.CoreCompileInputs.cache
+C:\Users\Silvia\source\repos\ex1017\ex1017\bin\Debug\netcoreapp3.1\ex1017.exe
+C:\Users\Silvia\source\repos\ex1017\ex1017\bin\Debug\netcoreapp3.1\ex1017.deps.json
+C:\Users\Silvia\source\repos\ex1017\ex1017\bin\Debug\netcoreapp3.1\ex1017.runtimeconfig.json
+C:\Users\Silvia\source\repos\ex1017\ex1017\bin\Debug\netcoreapp3.1\ex1017.runtimeconfig.dev.json
+C:\Users\Silvia\source\repos\ex1017\ex1017\bin\Debug\netcoreapp3.1\ex1017.dll
+C:\Users\Silvia\source\repos\ex1017\ex1017\bin\Debug\netcoreapp3.1\ex1017.pdb
+C:\Users\Silvia\source\repos\ex1017\ex1017\obj\Debug\netcoreapp3.1\ex1017.dll
+C:\Users\Silvia\source\repos\ex1017\ex1017\obj\Debug\netcoreapp3.1\ex1017.pdb
+C:\Users\Silvia\source\repos\ex1017\ex1017\obj\Debug\netcoreapp3.1\ex1017.genruntimeconfig.cache
