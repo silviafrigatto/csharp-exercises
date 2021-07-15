@@ -1,0 +1,13 @@
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1038\ex1038\obj\Debug\netcoreapp3.1\ex1038.csproj.AssemblyReference.cache
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1038\ex1038\obj\Debug\netcoreapp3.1\ex1038.AssemblyInfoInputs.cache
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1038\ex1038\obj\Debug\netcoreapp3.1\ex1038.AssemblyInfo.cs
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1038\ex1038\obj\Debug\netcoreapp3.1\ex1038.csproj.CoreCompileInputs.cache
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1038\ex1038\bin\Debug\netcoreapp3.1\ex1038.exe
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1038\ex1038\bin\Debug\netcoreapp3.1\ex1038.deps.json
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1038\ex1038\bin\Debug\netcoreapp3.1\ex1038.runtimeconfig.json
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1038\ex1038\bin\Debug\netcoreapp3.1\ex1038.runtimeconfig.dev.json
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1038\ex1038\bin\Debug\netcoreapp3.1\ex1038.dll
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1038\ex1038\bin\Debug\netcoreapp3.1\ex1038.pdb
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1038\ex1038\obj\Debug\netcoreapp3.1\ex1038.dll
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1038\ex1038\obj\Debug\netcoreapp3.1\ex1038.pdb
+C:\Users\Silvia\Documents\URI\C#\csharp-exercises\ex1038\ex1038\obj\Debug\netcoreapp3.1\ex1038.genruntimeconfig.cache
