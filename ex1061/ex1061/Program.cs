@@ -13,18 +13,18 @@ namespace ex1061
             string[] values = Console.ReadLine().Split(' ');
             w1 = int.Parse(values[1]);
 
-            values = Console.ReadLine().Split(" : ");
+            values = Console.ReadLine().Split(' ');
             x1 = int.Parse(values[0]);
-            y1 = int.Parse(values[1]);
-            z1 = int.Parse(values[2]);
+            y1 = int.Parse(values[2]);
+            z1 = int.Parse(values[4]);
 
             values = Console.ReadLine().Split(' ');
             w2 = int.Parse(values[1]);
 
-            values = Console.ReadLine().Split(" : ");
+            values = Console.ReadLine().Split(' ');
             x2 = int.Parse(values[0]);
-            y2 = int.Parse(values[1]);
-            z2 = int.Parse(values[2]);
+            y2 = int.Parse(values[2]);
+            z2 = int.Parse(values[4]);
 
             start = (w1 - 1) * 24 * 60 * 60 + x1 * 60 * 60 + y1 * 60 + z1;
             end = (w2 - 1) * 24 * 60 * 60 + x2 * 60 * 60 + y2 * 60 + z2;
