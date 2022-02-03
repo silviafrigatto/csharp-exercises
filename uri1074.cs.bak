@@ -1,0 +1,19 @@
+using System;
+
+namespace uri1074
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+		
+		//	Informar um número N
+		//	Usuário informa números de acordo com a quantidade de N
+		// Informar se o número é par, ímpar, positivo, negativo
+		// Se for 0, imprimir NULL
+		
+		
+		
+    }
+  }
+}
